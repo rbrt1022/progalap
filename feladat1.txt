@@ -1,0 +1,22 @@
+/*
+1. feladat (3 pont)
+
+Irj egy programot, amely a harom oldalhosszbol kiszamitja egy teglatest
+felszinet es terfogatat!
+
+A program beolvas harom nemnegativ valos szamot a standard inputrol.
+Ezek a szamok a teglatest oldalhosszai. A program csak jo inputot kaphat,
+igy a hibakezelessel nem kell foglalkozni. A program outputja ket sor.
+Az elsoben a "V = " szoveg utan a teglatest terfogata, a masodik sorban
+az "A = " szoveg utan a teglatest felulete szerepel. Mindket szamot 10
+karakteren jobbra igazitva 3 tizedesjegy pontossaggal kell kiiratni.
+Ugyelj ra, hogy a kiiratast sorvege jel zarja es a program ne irjon ki
+mas egyebet a fentieken kivul!
+
+A terfogat es a felulet kiszamitasara erdemes lehet egy-egy kulon fuggvenyt
+kesziteni, esetleg felhasznalva a teglalap teruletenek kiszamitasat vegzo
+fuggvenyt is.
+
+A programot main helyett main_t neven keszitsd el,
+de a tartalma olyan legyen, mintha egy programot irnal!
+*/

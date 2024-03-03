@@ -1,0 +1,13 @@
+1. feladat (5 pont)
+
+A hupikek torpikek kirandulni mentek, es Dulifuli beleesett egy godorbe.
+Termeszetesen nem kialtott segitsegert, hanem egyedul akart kimaszni.
+Elso lendulettel felmaszott 10 torparaszt, majd lenezett, es lecsuszott,
+meghozza az eddig elert magassaganak 10%-t. (tehat 9 torparasz magassagban sikerult megkapaszkodnia)
+Ekkor masodszor is lenduletet vett, 20 araszt maszott, majd megint lenezett,
+es megint visszacsuszta az addig elert osszmagassaganak a 10%-at.
+Es igy tovabb, minden lenulettel 10 arasszal tobbet maszott felfele,
+de minden megallasnal az addigi osszmagassaganak 10%-at elvesztette.
+
+Irj fuggvenyt, melynek parametere a godor melysege (torparaszban),
+es egy egesz ertekkel ter vissza: azzal, hogy Dulifuli hanyadik lendulettel maszott ki a godorbol.

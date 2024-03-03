@@ -1,0 +1,21 @@
+Nancy es Jane a kovetkezo titkosirassal leveleztek A. A. Milne "Micsoda negy
+nap!" cimu regenyeben: Megszamoltak, hany betubol allanak a titkositando
+uzenet szavai, majd minden szo betuit veletlenszeruen osszezagyvaltak,
+leirtak folyo irassal, és ebbe a szovegbe szintén sorrendet tartva, de
+véletlenlenszeru helyekre beszurtak a szavak hosszat jelzo szamokat.
+
+Peldaul: "Haho, ez egy uzenet!" => "haohzeg4ye2t3nez6eu"
+
+Valositsuk meg ennek a titkosirasnak az egyszerusitett verziojat!
+
+A titkosito fuggveny parametere ket karaktertomb, egy bemenet es egy
+kimenet. A titkositando uzenet a bemenetben van, a titkositottat a kimenetbe
+kell elkesziteni. A fuggveny szamolja meg, hogy a bemenet szavai hany
+betusek, es ezeket a szamokat írja sorrendet tartva a kimenet elejere. Az
+egyszeruseg kedveert minden bemenet maximum 9 betus szavakat tartalmaz. Egy
+szonak szamitunk minden karaktert ket space kozott. (Tehat pl. az irasjelek
+a szohoz tartoznak. A maganyos karakterek, mint pl. a gondolatjel, egybetus
+szonak szamitanak.) Ez utan a fuggveny a bemenet minden szavat forditsa meg,
+es space nelkul, sorrendet tartva irja be a kimenetbe.
+
+Peldaul: "Haho, ez egy uzenet!" => "5237,ohaHzeyge!tenezu"
